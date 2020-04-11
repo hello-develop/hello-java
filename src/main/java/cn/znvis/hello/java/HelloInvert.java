@@ -1,4 +1,4 @@
-package tech.changyan.hello.java;
+package cn.znvis.hello.java;
 
 public class HelloInvert {
     public int reverse(int x) {

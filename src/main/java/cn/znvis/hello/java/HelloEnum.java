@@ -1,4 +1,4 @@
-package tech.changyan.hello.java;
+package cn.znvis.hello.java;
 
 enum Season {
     SPRING, SUMMER, AUTUMN, WINTER;

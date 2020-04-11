@@ -1,8 +1,6 @@
-package tech.changyan.hello.java;
+package cn.znvis.hello.java;
 
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 public class HelloEnumTest {
 

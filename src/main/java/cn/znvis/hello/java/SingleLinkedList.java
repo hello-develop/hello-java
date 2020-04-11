@@ -1,4 +1,4 @@
-package tech.changyan.hello.java;
+package cn.znvis.hello.java;
 
 public class SingleLinkedList {
     private ListNode head; //头节点
